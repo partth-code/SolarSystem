@@ -132,7 +132,7 @@ const planets = [
        {
         name:"Demos",
         radius:0.3,
-        distance:7,
+        distance:6,
         speed: 0.006,
         material:deimosMaterial
       }
